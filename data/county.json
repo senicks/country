@@ -1,0 +1,1801 @@
+[
+  {
+    "id": "3",
+    "name": "法属圭亚那",
+    "en_name": "Guyane",
+    "lng": "-53.125782",
+    "lat": "3.933889"
+  },
+  {
+    "id": "4",
+    "name": "加拉帕戈斯群岛",
+    "en_name": "Galapagos",
+    "lng": "-90.423332",
+    "lat": "-0.383098"
+  },
+  {
+    "id": "5",
+    "name": "法属圣巴特岛",
+    "en_name": "Saint Barthelemy",
+    "lng": "-62.876452",
+    "lat": "17.920555"
+  },
+  {
+    "id": "6",
+    "name": "法属印度洋诸岛",
+    "en_name": "Scattered Islands",
+    "lng": "42.030766",
+    "lat": "-16.630370"
+  },
+  {
+    "id": "7",
+    "name": "赞比亚",
+    "en_name": "Zambia",
+    "lng": "29.045993",
+    "lat": "-11.564831"
+  },
+  {
+    "id": "8",
+    "name": "公海",
+    "en_name": "high seas",
+    "lng": "-28.516758",
+    "lat": "35.496096"
+  },
+  {
+    "id": "9",
+    "name": "圣巴泰勒米岛",
+    "en_name": "Saint Barthelem",
+    "lng": "-62.820561",
+    "lat": "17.900535"
+  },
+  {
+    "id": "10",
+    "name": "圣尤斯特歇斯岛",
+    "en_name": "Sint Eustatius",
+    "lng": "-62.973525",
+    "lat": "17.489063"
+  },
+  {
+    "id": "11",
+    "name": "法属波利尼西亚",
+    "en_name": "French Polynesia",
+    "lng": "-149.404783",
+    "lat": "-17.679985"
+  },
+  {
+    "id": "12",
+    "name": "巴林",
+    "en_name": "Bahrain",
+    "lng": "50.622327",
+    "lat": "26.265074"
+  },
+  {
+    "id": "13",
+    "name": "泽西岛",
+    "en_name": "Jersey",
+    "lng": "-2.135386",
+    "lat": "49.213785"
+  },
+  {
+    "id": "14",
+    "name": "北大西洋航线",
+    "en_name": "Transatlantic ",
+    "lng": "-28.647644",
+    "lat": "-14.608766"
+  },
+  {
+    "id": "15",
+    "name": "智利",
+    "en_name": "Chile",
+    "lng": "-117.161084",
+    "lat": "32.715738"
+  },
+  {
+    "id": "16",
+    "name": "巴芬岛",
+    "en_name": "Baffin Island",
+    "lng": "-70.958954",
+    "lat": "65.422343"
+  },
+  {
+    "id": "17",
+    "name": "中非",
+    "en_name": "Central African Republic",
+    "lng": "19.569800",
+    "lat": "2.318381"
+  },
+  {
+    "id": "18",
+    "name": "中国",
+    "en_name": "China",
+    "lng": "104.195397",
+    "lat": "35.861660"
+  },
+  {
+    "id": "19",
+    "name": "法属圣马丁岛",
+    "en_name": "St. Martin",
+    "lng": "-63.050054",
+    "lat": "18.070821"
+  },
+  {
+    "id": "20",
+    "name": "越南",
+    "en_name": "Viet Nam",
+    "lng": "106.688084",
+    "lat": "20.844912"
+  },
+  {
+    "id": "21",
+    "name": "北极",
+    "en_name": "North Pole",
+    "lng": "90.000000",
+    "lat": "0.000000"
+  },
+  {
+    "id": "22",
+    "name": "南极",
+    "en_name": "South Pole",
+    "lng": "135.151878",
+    "lat": "-82.857230"
+  },
+  {
+    "id": "23",
+    "name": "乍得",
+    "en_name": "Chad",
+    "lng": "18.732207",
+    "lat": "15.454166"
+  },
+  {
+    "id": "24",
+    "name": "约旦",
+    "en_name": "Jordan",
+    "lng": "35.006321",
+    "lat": "29.532052"
+  },
+  {
+    "id": "25",
+    "name": "英属印度洋领地",
+    "en_name": "British Indian Ocean Territory",
+    "lng": "71.876637",
+    "lat": "-6.343002"
+  },
+  {
+    "id": "26",
+    "name": "英属维尔京群岛",
+    "en_name": "British Virgin Islands",
+    "lng": "-64.639906",
+    "lat": "18.420712"
+  },
+  {
+    "id": "27",
+    "name": "英国",
+    "en_name": "United Kingdom of Great Britain and Northern Ireland",
+    "lng": "-1.519693",
+    "lat": "52.406822"
+  },
+  {
+    "id": "28",
+    "name": "印度尼西亚",
+    "en_name": "Indonesia",
+    "lng": "103.914399",
+    "lat": "-3.319437"
+  },
+  {
+    "id": "29",
+    "name": "印度",
+    "en_name": "India",
+    "lng": "77.594563",
+    "lat": "12.971599"
+  },
+  {
+    "id": "30",
+    "name": "意大利",
+    "en_name": "Italy",
+    "lng": "8.206426",
+    "lat": "44.900751"
+  },
+  {
+    "id": "31",
+    "name": "以色列",
+    "en_name": "Israel",
+    "lng": "34.655314",
+    "lat": "31.804381"
+  },
+  {
+    "id": "32",
+    "name": "伊朗",
+    "en_name": "Iran (Islamic Republic of)",
+    "lng": "53.688046",
+    "lat": "32.427908"
+  },
+  {
+    "id": "33",
+    "name": "伊拉克",
+    "en_name": "Iraq",
+    "lng": "43.679291",
+    "lat": "33.223191"
+  },
+  {
+    "id": "34",
+    "name": "也门",
+    "en_name": "Yemen",
+    "lng": "44.191007",
+    "lat": "15.369445"
+  },
+  {
+    "id": "35",
+    "name": "亚美尼亚",
+    "en_name": "Armenia",
+    "lng": "41.111133",
+    "lat": "44.987360"
+  },
+  {
+    "id": "36",
+    "name": "牙买加",
+    "en_name": "Jamaica",
+    "lng": "9.732010",
+    "lat": "52.375892"
+  },
+  {
+    "id": "37",
+    "name": "叙利亚",
+    "en_name": "Syrian Arab Republic",
+    "lng": "38.996815",
+    "lat": "34.802075"
+  },
+  {
+    "id": "38",
+    "name": "匈牙利",
+    "en_name": "Hungary",
+    "lng": "20.523246",
+    "lat": "47.255558"
+  },
+  {
+    "id": "39",
+    "name": "新西兰",
+    "en_name": "New Zealand",
+    "lng": "174.763332",
+    "lat": "-36.848460"
+  },
+  {
+    "id": "40",
+    "name": "新喀里多尼亚",
+    "en_name": "New Caledonia",
+    "lng": "165.618042",
+    "lat": "-20.904305"
+  },
+  {
+    "id": "41",
+    "name": "新加坡",
+    "en_name": "Singapore",
+    "lng": "103.819845",
+    "lat": "1.352084"
+  },
+  {
+    "id": "43",
+    "name": "希腊",
+    "en_name": "Greece",
+    "lng": "24.018037",
+    "lat": "35.513830"
+  },
+  {
+    "id": "44",
+    "name": "西撒哈拉",
+    "en_name": "Western Sahara",
+    "lng": "-12.885834",
+    "lat": "24.215527"
+  },
+  {
+    "id": "45",
+    "name": "西南索马里",
+    "en_name": "South West State of Somalia",
+    "lng": "43.651924",
+    "lat": "3.114061"
+  },
+  {
+    "id": "46",
+    "name": "西班牙",
+    "en_name": "Spain",
+    "lng": "-4.779384",
+    "lat": "37.888175"
+  },
+  {
+    "id": "47",
+    "name": "乌兹别克斯坦",
+    "en_name": "Uzbekistan",
+    "lng": "64.455577",
+    "lat": "39.768083"
+  },
+  {
+    "id": "48",
+    "name": "乌拉圭",
+    "en_name": "Uruguay",
+    "lng": "-121.886329",
+    "lat": "37.338208"
+  },
+  {
+    "id": "49",
+    "name": "乌克兰",
+    "en_name": "Ukraine",
+    "lng": "30.523400",
+    "lat": "50.450100"
+  },
+  {
+    "id": "50",
+    "name": "乌干达",
+    "en_name": "Uganda",
+    "lng": "30.063635",
+    "lat": "0.707531"
+  },
+  {
+    "id": "51",
+    "name": "文莱",
+    "en_name": "Brunei Darussalam",
+    "lng": "114.727669",
+    "lat": "4.535277"
+  },
+  {
+    "id": "52",
+    "name": "委内瑞拉",
+    "en_name": "Venezuela",
+    "lng": "-67.284788",
+    "lat": "10.231321"
+  },
+  {
+    "id": "53",
+    "name": "危地马拉",
+    "en_name": "Guatemala",
+    "lng": "-122.714055",
+    "lat": "38.440429"
+  },
+  {
+    "id": "54",
+    "name": "瓦努阿图",
+    "en_name": "Vanuatu",
+    "lng": "166.959158",
+    "lat": "-15.376706"
+  },
+  {
+    "id": "55",
+    "name": "瓦利斯和富图纳群岛",
+    "en_name": "Wallis et Futuna",
+    "lng": "-178.116337",
+    "lat": "-14.293732"
+  },
+  {
+    "id": "56",
+    "name": "托克劳",
+    "en_name": "Tokelau",
+    "lng": "-171.848305",
+    "lat": "-9.200134"
+  },
+  {
+    "id": "57",
+    "name": "土库曼斯坦",
+    "en_name": "Turkmenistan",
+    "lng": "47.068358",
+    "lat": "38.489431"
+  },
+  {
+    "id": "58",
+    "name": "土耳其",
+    "en_name": "Turkey",
+    "lng": "39.491124",
+    "lat": "39.746797"
+  },
+  {
+    "id": "59",
+    "name": "图瓦卢",
+    "en_name": "Tuvalu",
+    "lng": "177.650463",
+    "lat": "-7.109400"
+  },
+  {
+    "id": "60",
+    "name": "突尼斯",
+    "en_name": "Tunisia",
+    "lng": "9.184368",
+    "lat": "36.733319"
+  },
+  {
+    "id": "61",
+    "name": "特立尼达和多巴哥",
+    "en_name": "Trinidad and Tobago",
+    "lng": "-61.222330",
+    "lat": "10.691930"
+  },
+  {
+    "id": "62",
+    "name": "特克斯和凯科斯群岛",
+    "en_name": "Turks and Caicos Islands",
+    "lng": "-71.797688",
+    "lat": "21.694128"
+  },
+  {
+    "id": "63",
+    "name": "汤加",
+    "en_name": "Tonga",
+    "lng": "-175.198036",
+    "lat": "-21.178846"
+  },
+  {
+    "id": "64",
+    "name": "坦桑尼亚",
+    "en_name": "United Republic of Tanzania",
+    "lng": "117.710496",
+    "lat": "39.003660"
+  },
+  {
+    "id": "65",
+    "name": "泰国",
+    "en_name": "Thailand",
+    "lng": "100.455052",
+    "lat": "14.589605"
+  },
+  {
+    "id": "67",
+    "name": "塔吉克斯坦",
+    "en_name": "Tajikistan",
+    "lng": "71.276093",
+    "lat": "38.861034"
+  },
+  {
+    "id": "68",
+    "name": "索马里兰",
+    "en_name": "Republic of Somaliland",
+    "lng": "46.825284",
+    "lat": "9.411743"
+  },
+  {
+    "id": "69",
+    "name": "索马里",
+    "en_name": "Somalia",
+    "lng": "46.199616",
+    "lat": "5.152149"
+  },
+  {
+    "id": "70",
+    "name": "所罗门群岛",
+    "en_name": "Solomon Islands",
+    "lng": "160.156194",
+    "lat": "-9.645710"
+  },
+  {
+    "id": "71",
+    "name": "苏里南",
+    "en_name": "Suriname",
+    "lng": "-55.049338",
+    "lat": "4.771025"
+  },
+  {
+    "id": "72",
+    "name": "苏丹",
+    "en_name": "Sudan",
+    "lng": "24.904221",
+    "lat": "14.378275"
+  },
+  {
+    "id": "73",
+    "name": "斯威士兰",
+    "en_name": "Swaziland",
+    "lng": "31.465866",
+    "lat": "-26.522503"
+  },
+  {
+    "id": "74",
+    "name": "斯瓦尔巴群岛",
+    "en_name": "The Svalbard archipelago",
+    "lng": "20.984951",
+    "lat": "77.874850"
+  },
+  {
+    "id": "75",
+    "name": "斯洛文尼亚",
+    "en_name": "Slovenia",
+    "lng": "14.995463",
+    "lat": "46.151241"
+  },
+  {
+    "id": "76",
+    "name": "斯洛伐克",
+    "en_name": "Slovakia",
+    "lng": "19.699024",
+    "lat": "48.669026"
+  },
+  {
+    "id": "77",
+    "name": "斯里兰卡",
+    "en_name": "Sri Lanka",
+    "lng": "80.014366",
+    "lat": "7.087310"
+  },
+  {
+    "id": "78",
+    "name": "圣文森特和格林纳丁斯群岛",
+    "en_name": "Saint Vincent and the Grenadines",
+    "lng": "-61.287201",
+    "lat": "12.984311"
+  },
+  {
+    "id": "79",
+    "name": "圣皮埃尔和密克隆",
+    "en_name": "Saint Pierre et Miquelon",
+    "lng": "-56.315820",
+    "lat": "46.885231"
+  },
+  {
+    "id": "80",
+    "name": "圣马力诺",
+    "en_name": "San Marino",
+    "lng": "12.457772",
+    "lat": "43.942366"
+  },
+  {
+    "id": "81",
+    "name": "圣卢西亚",
+    "en_name": "Saint Lucia",
+    "lng": "-60.978882",
+    "lat": "13.909462"
+  },
+  {
+    "id": "82",
+    "name": "圣基茨和尼维斯",
+    "en_name": "Saint Kitts and Nevis",
+    "lng": "-62.782997",
+    "lat": "17.357862"
+  },
+  {
+    "id": "83",
+    "name": "圣赫勒拿",
+    "en_name": "Saint Helena",
+    "lng": "-5.708911",
+    "lat": "-15.964998"
+  },
+  {
+    "id": "84",
+    "name": "圣多美和普林西比",
+    "en_name": "Sao Tome and Principe",
+    "lng": "6.613310",
+    "lat": "0.186485"
+  },
+  {
+    "id": "85",
+    "name": "圣诞岛",
+    "en_name": "Christmas Island",
+    "lng": "105.690453",
+    "lat": "-10.447529"
+  },
+  {
+    "id": "86",
+    "name": "沙特阿拉伯",
+    "en_name": "Saudi Arabia",
+    "lng": "45.079162",
+    "lat": "23.885942"
+  },
+  {
+    "id": "87",
+    "name": "塞舌尔",
+    "en_name": "Seychelles",
+    "lng": "55.492068",
+    "lat": "-4.679535"
+  },
+  {
+    "id": "88",
+    "name": "塞浦路斯",
+    "en_name": "Cyprus",
+    "lng": "33.382276",
+    "lat": "35.185566"
+  },
+  {
+    "id": "89",
+    "name": "塞内加尔",
+    "en_name": "Senegal",
+    "lng": "8.951052",
+    "lat": "46.003678"
+  },
+  {
+    "id": "90",
+    "name": "塞拉利昂",
+    "en_name": "Sierra Leone",
+    "lng": "-11.779889",
+    "lat": "8.460555"
+  },
+  {
+    "id": "91",
+    "name": "塞尔维亚",
+    "en_name": "Serbia",
+    "lng": "21.006615",
+    "lat": "44.016797"
+  },
+  {
+    "id": "92",
+    "name": "萨摩亚",
+    "en_name": "Samoa",
+    "lng": "-172.104592",
+    "lat": "-13.759004"
+  },
+  {
+    "id": "93",
+    "name": "萨尔瓦多",
+    "en_name": "El Salvador",
+    "lng": "-89.180123",
+    "lat": "13.808674"
+  },
+  {
+    "id": "94",
+    "name": "瑞士",
+    "en_name": "Switzerland",
+    "lng": "9.300092",
+    "lat": "47.366481"
+  },
+  {
+    "id": "95",
+    "name": "瑞典",
+    "en_name": "Sweden",
+    "lng": "20.399197",
+    "lat": "66.830922"
+  },
+  {
+    "id": "96",
+    "name": "日本",
+    "en_name": "Japan",
+    "lng": "141.152684",
+    "lat": "39.703619"
+  },
+  {
+    "id": "97",
+    "name": "葡萄牙",
+    "en_name": "Portugal",
+    "lng": "-8.629105",
+    "lat": "41.157944"
+  },
+  {
+    "id": "98",
+    "name": "皮特凯恩群岛",
+    "en_name": "Pitcairn Islands",
+    "lng": "-128.324167",
+    "lat": "-24.376729"
+  },
+  {
+    "id": "99",
+    "name": "帕劳",
+    "en_name": "Palau",
+    "lng": "134.582635",
+    "lat": "7.515095"
+  },
+  {
+    "id": "100",
+    "name": "诺福克岛",
+    "en_name": "Norfolk Island",
+    "lng": "167.954733",
+    "lat": "-29.040845"
+  },
+  {
+    "id": "101",
+    "name": "挪威",
+    "en_name": "Norway",
+    "lng": "18.781937",
+    "lat": "69.817824"
+  },
+  {
+    "id": "102",
+    "name": "纽埃",
+    "en_name": "Niue",
+    "lng": "-169.867150",
+    "lat": "-19.054411"
+  },
+  {
+    "id": "103",
+    "name": "尼日利亚",
+    "en_name": "Nigeria",
+    "lng": "8.675277",
+    "lat": "9.081999"
+  },
+  {
+    "id": "104",
+    "name": "尼日尔",
+    "en_name": "Niger",
+    "lng": "7.986535",
+    "lat": "16.974169"
+  },
+  {
+    "id": "105",
+    "name": "尼加拉瓜",
+    "en_name": "Nicaragua",
+    "lng": "-5.567096",
+    "lat": "42.598726"
+  },
+  {
+    "id": "106",
+    "name": "尼泊尔",
+    "en_name": "Nepal",
+    "lng": "84.124008",
+    "lat": "28.394857"
+  },
+  {
+    "id": "107",
+    "name": "瑙鲁",
+    "en_name": "Nauru",
+    "lng": "166.931510",
+    "lat": "-0.522779"
+  },
+  {
+    "id": "108",
+    "name": "南苏丹",
+    "en_name": "South Sudan",
+    "lng": "31.306979",
+    "lat": "6.876992"
+  },
+  {
+    "id": "109",
+    "name": "南乔治亚和南桑威奇群岛",
+    "en_name": "South Georgia and the South Sandwich Islands",
+    "lng": "-36.587740",
+    "lat": "-54.429504"
+  },
+  {
+    "id": "110",
+    "name": "南非",
+    "en_name": "South Africa",
+    "lng": "3.610998",
+    "lat": "51.498796"
+  },
+  {
+    "id": "111",
+    "name": "南奥塞梯",
+    "en_name": "South Ossetia",
+    "lng": "44.048273",
+    "lat": "42.384430"
+  },
+  {
+    "id": "112",
+    "name": "纳米比亚",
+    "en_name": "Namibia",
+    "lng": "16.817838",
+    "lat": "-17.597929"
+  },
+  {
+    "id": "113",
+    "name": "纳戈尔诺-卡拉巴赫",
+    "en_name": "Nagorno Karabakh",
+    "lng": "46.655427",
+    "lat": "39.796471"
+  },
+  {
+    "id": "114",
+    "name": "墨西哥",
+    "en_name": "Mexico",
+    "lng": "-5.567096",
+    "lat": "42.598726"
+  },
+  {
+    "id": "115",
+    "name": "莫桑比克",
+    "en_name": "Mozambique",
+    "lng": "35.529562",
+    "lat": "-18.665695"
+  },
+  {
+    "id": "116",
+    "name": "摩纳哥",
+    "en_name": "Monaco",
+    "lng": "7.424613",
+    "lat": "43.738415"
+  },
+  {
+    "id": "117",
+    "name": "摩洛哥",
+    "en_name": "Morocco",
+    "lng": "-7.092620",
+    "lat": "31.791702"
+  },
+  {
+    "id": "118",
+    "name": "摩尔多瓦",
+    "en_name": "Republic of Moldova",
+    "lng": "28.369885",
+    "lat": "47.411631"
+  },
+  {
+    "id": "119",
+    "name": "民主刚果",
+    "en_name": "Democratic Republic of the Congo",
+    "lng": "21.765075",
+    "lat": "-4.038614"
+  },
+  {
+    "id": "120",
+    "name": "缅甸",
+    "en_name": "Myanmar",
+    "lng": "99.012893",
+    "lat": "12.470688"
+  },
+  {
+    "id": "121",
+    "name": "密克罗尼西亚联邦",
+    "en_name": "Micronesia",
+    "lng": "150.578868",
+    "lat": "7.430461"
+  },
+  {
+    "id": "122",
+    "name": "秘鲁",
+    "en_name": "Peru",
+    "lng": "-75.015152",
+    "lat": "-9.189967"
+  },
+  {
+    "id": "123",
+    "name": "孟加拉国",
+    "en_name": "Bangladesh",
+    "lng": "90.356331",
+    "lat": "23.684994"
+  },
+  {
+    "id": "124",
+    "name": "蒙特塞拉特",
+    "en_name": "Montserrat",
+    "lng": "-62.187367",
+    "lat": "16.742499"
+  },
+  {
+    "id": "125",
+    "name": "蒙古",
+    "en_name": "Mongolia",
+    "lng": "106.764421",
+    "lat": "45.582279"
+  },
+  {
+    "id": "126",
+    "name": "美属维尔京群岛",
+    "en_name": "United States Virgin Islands",
+    "lng": "-64.896296",
+    "lat": "18.335792"
+  },
+  {
+    "id": "127",
+    "name": "美属萨摩亚",
+    "en_name": "American Samoa",
+    "lng": "-170.131853",
+    "lat": "-14.270693"
+  },
+  {
+    "id": "128",
+    "name": "美国",
+    "en_name": "United States of America",
+    "lng": "-147.716389",
+    "lat": "64.837778"
+  },
+  {
+    "id": "129",
+    "name": "毛里塔尼亚",
+    "en_name": "Mauritania",
+    "lng": "-10.940835",
+    "lat": "21.007890"
+  },
+  {
+    "id": "130",
+    "name": "毛里求斯",
+    "en_name": "Mauritius",
+    "lng": "57.552715",
+    "lat": "-20.348296"
+  },
+  {
+    "id": "131",
+    "name": "马约特岛",
+    "en_name": "Mahore",
+    "lng": "45.166376",
+    "lat": "-12.827389"
+  },
+  {
+    "id": "132",
+    "name": "马提尼克",
+    "en_name": "Martinique",
+    "lng": "-61.024103",
+    "lat": "14.641617"
+  },
+  {
+    "id": "133",
+    "name": "马绍尔群岛",
+    "en_name": "Marshall Islands",
+    "lng": "171.184628",
+    "lat": "7.131530"
+  },
+  {
+    "id": "134",
+    "name": "马其顿",
+    "en_name": "Macedonia",
+    "lng": "21.745275",
+    "lat": "41.608635"
+  },
+  {
+    "id": "135",
+    "name": "马里",
+    "en_name": "Mali",
+    "lng": "1.409654",
+    "lat": "18.452071"
+  },
+  {
+    "id": "136",
+    "name": "马来西亚",
+    "en_name": "Malaysia",
+    "lng": "109.120161",
+    "lat": "21.481291"
+  },
+  {
+    "id": "137",
+    "name": "马拉维",
+    "en_name": "Malawi",
+    "lng": "35.302723",
+    "lat": "32.897225"
+  },
+  {
+    "id": "138",
+    "name": "马耳他",
+    "en_name": "Malta",
+    "lng": "14.375451",
+    "lat": "35.937520"
+  },
+  {
+    "id": "139",
+    "name": "马尔代夫",
+    "en_name": "Maldives",
+    "lng": "121.615299",
+    "lat": "25.069100"
+  },
+  {
+    "id": "140",
+    "name": "马恩岛",
+    "en_name": "Isle of Man",
+    "lng": "-4.548057",
+    "lat": "54.236109"
+  },
+  {
+    "id": "141",
+    "name": "马达加斯加",
+    "en_name": "Madagascar",
+    "lng": "49.528000",
+    "lat": "-13.771539"
+  },
+  {
+    "id": "142",
+    "name": "罗马尼亚",
+    "en_name": "Romania",
+    "lng": "23.569027",
+    "lat": "46.082337"
+  },
+  {
+    "id": "143",
+    "name": "卢旺达",
+    "en_name": "Rwanda",
+    "lng": "29.873888",
+    "lat": "-1.940278"
+  },
+  {
+    "id": "144",
+    "name": "卢森堡",
+    "en_name": "Luxembourg",
+    "lng": "6.159563",
+    "lat": "49.867178"
+  },
+  {
+    "id": "145",
+    "name": "留尼旺",
+    "en_name": "Reunion",
+    "lng": "55.536405",
+    "lat": "-21.115122"
+  },
+  {
+    "id": "146",
+    "name": "列支敦士登",
+    "en_name": "Liechtenstein",
+    "lng": "9.555387",
+    "lat": "47.166003"
+  },
+  {
+    "id": "147",
+    "name": "利比亚",
+    "en_name": "Libya",
+    "lng": "17.228331",
+    "lat": "26.335100"
+  },
+  {
+    "id": "148",
+    "name": "利比里亚",
+    "en_name": "Liberia",
+    "lng": "-10.080730",
+    "lat": "7.495264"
+  },
+  {
+    "id": "149",
+    "name": "立陶宛",
+    "en_name": "Lithuania",
+    "lng": "24.045876",
+    "lat": "54.396294"
+  },
+  {
+    "id": "150",
+    "name": "黎巴嫩",
+    "en_name": "Lebanon",
+    "lng": "34.536223",
+    "lat": "9.340735"
+  },
+  {
+    "id": "151",
+    "name": "老挝",
+    "en_name": "Lao People's Democratic Republic",
+    "lng": "106.820788",
+    "lat": "14.819370"
+  },
+  {
+    "id": "152",
+    "name": "莱索托",
+    "en_name": "Lesotho",
+    "lng": "-84.296322",
+    "lat": "37.568694"
+  },
+  {
+    "id": "153",
+    "name": "拉脱维亚",
+    "en_name": "Latvia",
+    "lng": "27.051349",
+    "lat": "57.420788"
+  },
+  {
+    "id": "154",
+    "name": "库克群岛（新西兰）",
+    "en_name": "Cook Islands",
+    "lng": "-159.777444",
+    "lat": "-21.236683"
+  },
+  {
+    "id": "155",
+    "name": "肯尼亚",
+    "en_name": "Kenya",
+    "lng": "36.056720",
+    "lat": "0.632055"
+  },
+  {
+    "id": "156",
+    "name": "克罗地亚",
+    "en_name": "Croatia",
+    "lng": "15.200000",
+    "lat": "45.100000"
+  },
+  {
+    "id": "157",
+    "name": "科威特",
+    "en_name": "Kuwait",
+    "lng": "47.481766",
+    "lat": "29.311660"
+  },
+  {
+    "id": "158",
+    "name": "科特迪瓦",
+    "en_name": "Coate d'Ivoire",
+    "lng": "-3.906269",
+    "lat": "6.223218"
+  },
+  {
+    "id": "159",
+    "name": "科索沃",
+    "en_name": "Kosovo",
+    "lng": "20.902977",
+    "lat": "42.602636"
+  },
+  {
+    "id": "160",
+    "name": "科摩罗",
+    "en_name": "Comoros",
+    "lng": "43.333320",
+    "lat": "-11.645472"
+  },
+  {
+    "id": "161",
+    "name": "科科斯群岛",
+    "en_name": "Cocos Islands",
+    "lng": "96.870978",
+    "lat": "-12.164144"
+  },
+  {
+    "id": "162",
+    "name": "开曼群岛",
+    "en_name": "Cayman Islands",
+    "lng": "-81.254592",
+    "lat": "19.313305"
+  },
+  {
+    "id": "163",
+    "name": "卡塔尔",
+    "en_name": "Qatar",
+    "lng": "51.531040",
+    "lat": "25.285447"
+  },
+  {
+    "id": "164",
+    "name": "喀麦隆",
+    "en_name": "Cameroon",
+    "lng": "12.805475",
+    "lat": "6.918195"
+  },
+  {
+    "id": "165",
+    "name": "津巴布韦",
+    "en_name": "Zimbabwe",
+    "lng": "27.549585",
+    "lat": "-18.533157"
+  },
+  {
+    "id": "166",
+    "name": "捷克",
+    "en_name": "Czech Republic",
+    "lng": "15.473053",
+    "lat": "49.817542"
+  },
+  {
+    "id": "167",
+    "name": "柬埔寨",
+    "en_name": "Cambodia",
+    "lng": "103.636272",
+    "lat": "14.171720"
+  },
+  {
+    "id": "168",
+    "name": "加蓬",
+    "en_name": "Gabon",
+    "lng": "12.438058",
+    "lat": "-0.884409"
+  },
+  {
+    "id": "169",
+    "name": "加纳",
+    "en_name": "Ghana",
+    "lng": "-1.520862",
+    "lat": "6.747044"
+  },
+  {
+    "id": "170",
+    "name": "加拿大",
+    "en_name": "Canada",
+    "lng": "-122.304470",
+    "lat": "49.050438"
+  },
+  {
+    "id": "171",
+    "name": "几内亚比绍",
+    "en_name": "Guinea-Bissau",
+    "lng": "-15.180413",
+    "lat": "11.803749"
+  },
+  {
+    "id": "172",
+    "name": "几内亚",
+    "en_name": "Guinea",
+    "lng": "-8.748117",
+    "lat": "7.954114"
+  },
+  {
+    "id": "173",
+    "name": "吉尔吉斯斯坦",
+    "en_name": "Kyrgyzstan",
+    "lng": "74.766098",
+    "lat": "41.204380"
+  },
+  {
+    "id": "174",
+    "name": "吉布提",
+    "en_name": "Djibouti",
+    "lng": "104.082047",
+    "lat": "30.674804"
+  },
+  {
+    "id": "175",
+    "name": "基里巴斯",
+    "en_name": "Kiribati",
+    "lng": "-168.733774",
+    "lat": "-3.370402"
+  },
+  {
+    "id": "176",
+    "name": "洪都拉斯",
+    "en_name": "Honduras",
+    "lng": "-55.759623",
+    "lat": "-34.779379"
+  },
+  {
+    "id": "177",
+    "name": "黑山",
+    "en_name": "Montenegro",
+    "lng": "19.374390",
+    "lat": "42.708678"
+  },
+  {
+    "id": "178",
+    "name": "荷属安的列斯",
+    "en_name": "Netherlands Antilles",
+    "lng": "-68.809994",
+    "lat": "12.225212"
+  },
+  {
+    "id": "179",
+    "name": "荷兰",
+    "en_name": "Netherlands",
+    "lng": "5.264702",
+    "lat": "52.350785"
+  },
+  {
+    "id": "180",
+    "name": "韩国",
+    "en_name": "Republic of Korea",
+    "lng": "128.431714",
+    "lat": "35.774639"
+  },
+  {
+    "id": "181",
+    "name": "海地",
+    "en_name": "Haiti",
+    "lng": "-72.285215",
+    "lat": "18.971187"
+  },
+  {
+    "id": "182",
+    "name": "哈萨克斯坦",
+    "en_name": "Kazakhstan",
+    "lng": "69.411049",
+    "lat": "51.916532"
+  },
+  {
+    "id": "183",
+    "name": "圭亚那",
+    "en_name": "Guyana",
+    "lng": "-58.463000",
+    "lat": "6.572013"
+  },
+  {
+    "id": "184",
+    "name": "关岛",
+    "en_name": "Guam",
+    "lng": "144.793738",
+    "lat": "13.444308"
+  },
+  {
+    "id": "185",
+    "name": "瓜德罗普",
+    "en_name": "Guadeloupe",
+    "lng": "-61.550965",
+    "lat": "16.265013"
+  },
+  {
+    "id": "186",
+    "name": "古巴",
+    "en_name": "Cuba",
+    "lng": "-83.688026",
+    "lat": "22.413365"
+  },
+  {
+    "id": "187",
+    "name": "根西岛",
+    "en_name": "Guernsey",
+    "lng": "-2.589478",
+    "lat": "49.448202"
+  },
+  {
+    "id": "188",
+    "name": "格鲁吉亚",
+    "en_name": "Georgia",
+    "lng": "-82.900075",
+    "lat": "32.165622"
+  },
+  {
+    "id": "189",
+    "name": "格陵兰",
+    "en_name": "Greenland",
+    "lng": "-42.604303",
+    "lat": "71.706936"
+  },
+  {
+    "id": "190",
+    "name": "格林纳达",
+    "en_name": "Grenada",
+    "lng": "-61.678993",
+    "lat": "12.116503"
+  },
+  {
+    "id": "191",
+    "name": "哥斯达黎加",
+    "en_name": "Costa Rica",
+    "lng": "-84.214170",
+    "lat": "10.015939"
+  },
+  {
+    "id": "192",
+    "name": "哥伦比亚",
+    "en_name": "Colombia",
+    "lng": "-70.710457",
+    "lat": "7.076172"
+  },
+  {
+    "id": "193",
+    "name": "刚果",
+    "en_name": "Congo",
+    "lng": "15.828803",
+    "lat": "-0.227165"
+  },
+  {
+    "id": "194",
+    "name": "冈比亚",
+    "en_name": "Gambia",
+    "lng": "-15.310139",
+    "lat": "13.443182"
+  },
+  {
+    "id": "195",
+    "name": "佛得角",
+    "en_name": "Cabo Verde",
+    "lng": "-23.040836",
+    "lat": "16.539059"
+  },
+  {
+    "id": "196",
+    "name": "芬兰",
+    "en_name": "Finland",
+    "lng": "24.655900",
+    "lat": "60.205491"
+  },
+  {
+    "id": "197",
+    "name": "斐济",
+    "en_name": "Fiji",
+    "lng": "178.065198",
+    "lat": "-17.713360"
+  },
+  {
+    "id": "198",
+    "name": "菲律宾",
+    "en_name": "Philippines",
+    "lng": "125.455341",
+    "lat": "7.190708"
+  },
+  {
+    "id": "199",
+    "name": "梵蒂冈",
+    "en_name": "Vatican ",
+    "lng": "12.453395",
+    "lat": "41.902917"
+  },
+  {
+    "id": "200",
+    "name": "法罗群岛",
+    "en_name": "The Faroe Islands",
+    "lng": "-6.911566",
+    "lat": "61.892663"
+  },
+  {
+    "id": "201",
+    "name": "法国",
+    "en_name": "France",
+    "lng": "4.627777",
+    "lat": "43.676647"
+  },
+  {
+    "id": "202",
+    "name": "厄立特里亚",
+    "en_name": "Eritrea",
+    "lng": "39.782334",
+    "lat": "15.179384"
+  },
+  {
+    "id": "203",
+    "name": "厄瓜多尔",
+    "en_name": "Ecuador",
+    "lng": "-78.996834",
+    "lat": "-2.894307"
+  },
+  {
+    "id": "204",
+    "name": "俄罗斯",
+    "en_name": "Russian Federation",
+    "lng": "91.429317",
+    "lat": "53.717564"
+  },
+  {
+    "id": "205",
+    "name": "多米尼克",
+    "en_name": "Dominica",
+    "lng": "-61.370956",
+    "lat": "15.415006"
+  },
+  {
+    "id": "206",
+    "name": "多米尼加",
+    "en_name": "Dominican Republic",
+    "lng": "-70.160560",
+    "lat": "18.736612"
+  },
+  {
+    "id": "207",
+    "name": "多哥",
+    "en_name": "Togo",
+    "lng": "38.820545",
+    "lat": "-7.323771"
+  },
+  {
+    "id": "208",
+    "name": "东帝汶",
+    "en_name": "Timor-Leste",
+    "lng": "125.727539",
+    "lat": "-8.874217"
+  },
+  {
+    "id": "209",
+    "name": "德涅斯特河左岸",
+    "en_name": "Transnistria",
+    "lng": "29.464178",
+    "lat": "47.215299"
+  },
+  {
+    "id": "210",
+    "name": "德国",
+    "en_name": "Germany",
+    "lng": "8.052771",
+    "lat": "51.407338"
+  },
+  {
+    "id": "211",
+    "name": "丹麦",
+    "en_name": "Denmark",
+    "lng": "10.203921",
+    "lat": "56.162939"
+  },
+  {
+    "id": "212",
+    "name": "赤道几内亚",
+    "en_name": "Equatorial Guinea",
+    "lng": "10.267895",
+    "lat": "1.650801"
+  },
+  {
+    "id": "213",
+    "name": "朝鲜",
+    "en_name": "North Korea",
+    "lng": "119.193710",
+    "lat": "34.606756"
+  },
+  {
+    "id": "214",
+    "name": "布隆迪",
+    "en_name": "Burundi",
+    "lng": "29.371491",
+    "lat": "-3.157240"
+  },
+  {
+    "id": "215",
+    "name": "布基纳法索",
+    "en_name": "Burkina Faso",
+    "lng": "6.565372",
+    "lat": "46.686018"
+  },
+  {
+    "id": "216",
+    "name": "不丹",
+    "en_name": "Bhutan",
+    "lng": "90.433601",
+    "lat": "27.514162"
+  },
+  {
+    "id": "217",
+    "name": "博茨瓦纳",
+    "en_name": "Botswana",
+    "lng": "24.684866",
+    "lat": "-22.328474"
+  },
+  {
+    "id": "218",
+    "name": "伯利兹",
+    "en_name": "Belize",
+    "lng": "-88.497650",
+    "lat": "17.189877"
+  },
+  {
+    "id": "219",
+    "name": "玻利维亚",
+    "en_name": "Bolivia",
+    "lng": "-68.185806",
+    "lat": "-16.510855"
+  },
+  {
+    "id": "220",
+    "name": "波兰",
+    "en_name": "Poland",
+    "lng": "19.404490",
+    "lat": "54.156061"
+  },
+  {
+    "id": "221",
+    "name": "波黑",
+    "en_name": "Bosnia and Herzegovina",
+    "lng": "17.679898",
+    "lat": "43.916166"
+  },
+  {
+    "id": "222",
+    "name": "波多黎各",
+    "en_name": "The Commonwealth of Puerto Rico",
+    "lng": "-66.590149",
+    "lat": "18.220833"
+  },
+  {
+    "id": "223",
+    "name": "冰岛",
+    "en_name": "Iceland",
+    "lng": "-19.020835",
+    "lat": "64.963051"
+  },
+  {
+    "id": "224",
+    "name": "比利时",
+    "en_name": "Belgium",
+    "lng": "4.062102",
+    "lat": "50.525708"
+  },
+  {
+    "id": "225",
+    "name": "贝宁",
+    "en_name": "Benin",
+    "lng": "2.777981",
+    "lat": "10.968109"
+  },
+  {
+    "id": "226",
+    "name": "北塞浦路斯",
+    "en_name": "Northern Cyprus",
+    "lng": "33.429859",
+    "lat": "35.126413"
+  },
+  {
+    "id": "227",
+    "name": "北马里亚纳群岛",
+    "en_name": "Commonwealth of the Northern Mariana Islands",
+    "lng": "145.674489",
+    "lat": "15.098069"
+  },
+  {
+    "id": "228",
+    "name": "保加利亚",
+    "en_name": "Bulgaria",
+    "lng": "27.462636",
+    "lat": "42.504793"
+  },
+  {
+    "id": "229",
+    "name": "邦特兰",
+    "en_name": "Buntlaand",
+    "lng": "49.372351",
+    "lat": "9.787544"
+  },
+  {
+    "id": "230",
+    "name": "百慕大",
+    "en_name": "Bermuda",
+    "lng": "-64.750500",
+    "lat": "32.307800"
+  },
+  {
+    "id": "231",
+    "name": "白俄罗斯",
+    "en_name": "Belarus",
+    "lng": "23.734050",
+    "lat": "52.097621"
+  },
+  {
+    "id": "232",
+    "name": "巴西",
+    "en_name": "Brazil",
+    "lng": "16.382857",
+    "lat": "39.488691"
+  },
+  {
+    "id": "233",
+    "name": "巴拿马",
+    "en_name": "Panama",
+    "lng": "-80.782127",
+    "lat": "8.537981"
+  },
+  {
+    "id": "234",
+    "name": "巴勒斯坦",
+    "en_name": "the State of Palestine",
+    "lng": "31.470000",
+    "lat": "35.130000"
+  },
+  {
+    "id": "235",
+    "name": "巴拉圭",
+    "en_name": "Paraguay",
+    "lng": "-55.225667",
+    "lat": "-23.108307"
+  },
+  {
+    "id": "236",
+    "name": "巴基斯坦",
+    "en_name": "Pakistan",
+    "lng": "71.580490",
+    "lat": "34.014975"
+  },
+  {
+    "id": "237",
+    "name": "巴哈马",
+    "en_name": "Bahamas",
+    "lng": "-77.396280",
+    "lat": "25.034280"
+  },
+  {
+    "id": "238",
+    "name": "巴布亚新几内亚",
+    "en_name": "Papua New Guinea",
+    "lng": "155.380710",
+    "lat": "-6.375392"
+  },
+  {
+    "id": "239",
+    "name": "巴巴多斯",
+    "en_name": "Barbados",
+    "lng": "-59.543176",
+    "lat": "13.193878"
+  },
+  {
+    "id": "241",
+    "name": "澳大利亚",
+    "en_name": "Australia",
+    "lng": "175.608215",
+    "lat": "-40.352307"
+  },
+  {
+    "id": "242",
+    "name": "奥兰群岛",
+    "en_name": "Aland",
+    "lng": "22.523066",
+    "lat": "63.373148"
+  },
+  {
+    "id": "243",
+    "name": "奥地利",
+    "en_name": "Austria",
+    "lng": "16.268880",
+    "lat": "47.153717"
+  },
+  {
+    "id": "244",
+    "name": "安提瓜和巴布达",
+    "en_name": "Antigua and Barbuda",
+    "lng": "-61.796335",
+    "lat": "17.060834"
+  },
+  {
+    "id": "245",
+    "name": "安圭拉",
+    "en_name": "Anguilla",
+    "lng": "-63.068607",
+    "lat": "18.220553"
+  },
+  {
+    "id": "246",
+    "name": "安哥拉",
+    "en_name": "Angola",
+    "lng": "14.913410",
+    "lat": "-9.300590"
+  },
+  {
+    "id": "247",
+    "name": "安道尔",
+    "en_name": "Andorra",
+    "lng": "1.521801",
+    "lat": "42.506285"
+  },
+  {
+    "id": "248",
+    "name": "爱沙尼亚",
+    "en_name": "Estonia",
+    "lng": "25.246697",
+    "lat": "59.333424"
+  },
+  {
+    "id": "249",
+    "name": "爱尔兰",
+    "en_name": "Ireland",
+    "lng": "-7.712223",
+    "lat": "53.235687"
+  },
+  {
+    "id": "250",
+    "name": "埃塞俄比亚",
+    "en_name": "Ethiopia",
+    "lng": "40.958688",
+    "lat": "11.755939"
+  },
+  {
+    "id": "251",
+    "name": "埃及",
+    "en_name": "Egypt",
+    "lng": "32.899829",
+    "lat": "24.088938"
+  },
+  {
+    "id": "252",
+    "name": "阿塞拜疆",
+    "en_name": "Azerbaijan",
+    "lng": "49.273682",
+    "lat": "40.362969"
+  },
+  {
+    "id": "253",
+    "name": "阿曼",
+    "en_name": "Oman",
+    "lng": "58.382880",
+    "lat": "23.588046"
+  },
+  {
+    "id": "254",
+    "name": "阿鲁巴",
+    "en_name": "aruba",
+    "lng": "-69.982408",
+    "lat": "12.512957"
+  },
+  {
+    "id": "255",
+    "name": "阿联酋",
+    "en_name": "United Arab Emirates",
+    "lng": "53.847818",
+    "lat": "23.424076"
+  },
+  {
+    "id": "256",
+    "name": "阿根廷",
+    "en_name": "Argentina",
+    "lng": "-60.511547",
+    "lat": "-31.741320"
+  },
+  {
+    "id": "257",
+    "name": "阿富汗",
+    "en_name": "Afghanistan",
+    "lng": "62.204029",
+    "lat": "34.352865"
+  },
+  {
+    "id": "258",
+    "name": "阿尔及利亚",
+    "en_name": "Algeria",
+    "lng": "-0.186964",
+    "lat": "27.971634"
+  },
+  {
+    "id": "259",
+    "name": "阿尔巴尼亚",
+    "en_name": "Albania",
+    "lng": "20.086655",
+    "lat": "41.110230"
+  },
+  {
+    "id": "260",
+    "name": "阿布哈兹",
+    "en_name": "Abkhazia",
+    "lng": "41.023449",
+    "lat": "43.001552"
+  },
+  {
+    "id": "261",
+    "name": "直布罗陀",
+    "en_name": "Gibraltar",
+    "lng": "-5.353577",
+    "lat": "36.140749"
+  },
+  {
+    "id": "263",
+    "name": "马尔维纳斯群岛（福克兰群岛）",
+    "en_name": "Falkland Islands",
+    "lng": "-59.523458",
+    "lat": "-51.796180"
+  }
+]
